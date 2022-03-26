@@ -24,7 +24,7 @@
 
 ```js
 // 首先你应当克隆该项目
-git clone https://gitee.com/penggang-home/data-view.git
+git clone https://github.com/Alkuttt/vue.git
 
 // 进入该项目
 cd data-view
@@ -38,34 +38,27 @@ npm run serve
 
 ## 三、运行效果截图
 
-#### 2.1 黑色主题
 
-![dark](./data/dark.png)
-
-#### 2.2 亮色主题
-
-![dark](./data/light.png)
-
-#### 2.3 热销商品占比
+#### 2.1 热销商品占比
 
 ![dark](./data/hot.png)
 
-#### 2.4 商家分布
+#### 2.2 商家分布
 
 ![dark](./data/map.png)
 
-#### 2.5 地区销售排行
+#### 2.3 地区销售排行
 
 ![dark](./data/rank.png)
 
-#### 2.6 商家销售统计
+#### 2.4 商家销售统计
 
 ![dark](./data/seller.png)
 
-#### 2.7 库存和销量分析
+#### 2.5 库存和销量分析
 
 ![dark](./data/stock.png)
 
-#### 2.8 地区销量趋势
+#### 2.9 地区销量趋势
 
 ![dark](./data/trend.png)
